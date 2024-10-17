@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Software Engineer in the making...</h3>
+<h1>Hi 👋, I'm Nikita</h1>
+<h3>Software Engineer in the making...</h3>
 
 - 🔭 I’m currently working on **university projects.**
 
 - 🌱 I’m currently learning **Flask, Python, and Docker.**
 
-- 🎓 Studying for Software Enigneering at **Napier University.**
+- 🎓 Studying for Software Engineering at **Napier University.**
 
 - 💼 Actively seeking **internships and real-world experience.**
 
