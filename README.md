@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **My code runs on magic and caffeine!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
